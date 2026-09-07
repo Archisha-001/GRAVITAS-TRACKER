@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3b6fecac-e077-49dc-a518-62b36f55c8d6",
+    "email": "test@example.com",
+    "accountType": "external",
+    "salt": "4b2ad7c249fcde916d1e73202da461a6",
+    "passwordHash": "30f8e42ecae58f5988f056f0781c8ef247482b591f57cb9fdcdd22d11d020c3358b08cf132904c9a612f402010654eeacc6991123c1c520f21012e2b98f9d868",
+    "createdAt": "2026-09-07T11:38:36.610Z"
+  },
+  {
+    "id": "49681edb-1044-4c23-a8f1-a9fcef6df112",
+    "email": "archisha@vitstudent.ac.in",
+    "accountType": "vit",
+    "salt": "1572a5f57f1ce2a85f5d5ca50f85fd9e",
+    "passwordHash": "acdc4a481bf2299d08653a42eba13a4a99a1cec3c65c0e077699d610cd69dcc5dd067e77ca838c9ef5b0c477a9650cdc2a719e99d08e52be946eeb2d19d59f32",
+    "createdAt": "2026-09-07T16:06:01.871Z"
+  },
+  {
+    "id": "906dfb77-1d4e-4be1-a751-91294a0ea9b6",
+    "email": "archisha.sinha2026a@vitstudent.ac.in",
+    "accountType": "vit",
+    "salt": "3458f86323b1967743e60973db00f58b",
+    "passwordHash": "bb3c1bf0c3c53220edb8c7773e8d93d9172d3cf7476a22822ec9c028a0b077037fb9ca6479ae092454ac21d6fc29349c47821b1418ab7bb4918aca0f9790e18b",
+    "createdAt": "2026-09-07T18:21:35.001Z"
+  }
+]
