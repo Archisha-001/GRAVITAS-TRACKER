@@ -1,0 +1,12 @@
+{
+  "name": "gravitrack-local",
+  "version": "1.0.1",
+  "private": true,
+  "description": "GraviTrack local server with a file-based local account store. No external database required.",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  }
+}
